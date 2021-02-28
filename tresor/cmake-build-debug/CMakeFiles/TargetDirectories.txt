@@ -1,0 +1,3 @@
+/mnt/d/scolaire/algo c++/tresor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/scolaire/algo c++/tresor/cmake-build-debug/CMakeFiles/tresor.dir
+/mnt/d/scolaire/algo c++/tresor/cmake-build-debug/CMakeFiles/edit_cache.dir

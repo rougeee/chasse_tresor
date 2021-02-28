@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/scolaire/algo c++/tresor/main.c
+tresor.h
+/mnt/d/scolaire/algo c++/tresor/tresor.h
+
+/mnt/d/scolaire/algo c++/tresor/tresor.c
+tresor.h
+/mnt/d/scolaire/algo c++/tresor/tresor.h
+
+/mnt/d/scolaire/algo c++/tresor/tresor.h
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+time.h
+-
+

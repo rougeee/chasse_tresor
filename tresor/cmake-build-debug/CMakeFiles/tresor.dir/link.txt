@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/tresor.dir/main.c.o CMakeFiles/tresor.dir/tresor.c.o  -o tresor 
